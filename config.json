@@ -1,6 +1,0 @@
-{
-  "username": "johndoe",
-  "hash": "hash your password with bcrypt.hash",
-  "key": "/path/to/key.key",
-  "cert": "/path/to/cert.crt"
-}
