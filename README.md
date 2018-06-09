@@ -1,4 +1,4 @@
-# rpi-gateopener - HTTPS Server for the raspberry pi to open your gate
+# HTTPS Server for the raspberry pi to open your gate
 
 The server is listening for a POST request at `https://<raspberrypi>:3000/open` containing HTTP authentication (username and password).
 
